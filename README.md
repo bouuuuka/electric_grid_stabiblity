@@ -14,6 +14,5 @@ In this project, we explore the intersection of Artificial Intelligence (AI) and
 Follow the steps below to get started with the project:
 
 1. Clone this repository to your local machine.
-   ```bash
-  git clone https://github.com/bouuuuka/electric_grid_stabiblity.git
-   
+   ``` git clone https://github.com/bouuuuka/electric_grid_stabiblity.git
+  ``` 

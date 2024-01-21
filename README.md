@@ -9,10 +9,4 @@ In this project, we explore the intersection of Artificial Intelligence (AI) and
 - Implement advanced AI models for electric grid stability prediction.
 - Combine the power of AI and IoT to enhance the overall stability and reliability of the electric grid.
 
-### Getting Started
 
-Follow the steps below to get started with the project:
-
-1. Clone this repository to your local machine.
-   ``` git clone https://github.com/bouuuuka/electric_grid_stabiblity.git
-  ``` 
